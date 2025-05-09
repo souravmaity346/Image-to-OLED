@@ -1,27 +1,24 @@
-Image to OLED
-Method 1: JPG/PNG to OLED using image2cpp
-1)	Take an Image like Cat.jpg
+# Image to OLED
 
-![Screenshot 2025-04-27 082524](https://github.com/user-attachments/assets/fb8412bd-de50-47d0-90de-e5e1a55c6bd5)
+## Method 1: JPG/PNG to OLED using image2cpp
 
-2)	Open this website ➔  https://javl.github.io/image2cpp/
-	
-3)	Upload Image here ➔
+### 1) Take an Image (e.g., Cat.jpg)
+- Choose the image you want to display on your OLED screen (e.g., Cat.jpg).
 
-![Screenshot 2025-05-09 145831](https://github.com/user-attachments/assets/6badcd17-001a-414c-9313-7f7527a5ffa7)
+### 2) Open the Image2CPP Website
+- Go to the following website: [https://javl.github.io/image2cpp/](https://javl.github.io/image2cpp/)
 
-4)	Change Image properties from here ➔
+### 3) Upload the Image
+- Click on the upload button and select your image file.
 
-![Screenshot 2025-05-09 145916](https://github.com/user-attachments/assets/4a739bb2-652d-45e1-be7d-8801ddf925f4)
+### 4) Change Image Properties
+- You can adjust the image properties like size, color, etc., using the options available on the site.
 
-5)	Here you can see the preview ➔
+### 5) Preview the Image
+- You will see a preview of the image after adjusting the properties.
 
-![Screenshot 2025-05-09 150018](https://github.com/user-attachments/assets/f46680f0-6df3-4e69-b309-6e5079e8908d)
+### 6) Generate & Download the Code
+- Once satisfied with the preview, click the "Generate & Download Code" button to get the code for your OLED display.
 
-6)	From here you can Generate & download the code ➔
-
-![Screenshot 2025-05-09 150048](https://github.com/user-attachments/assets/9890fd1b-595e-4f23-af6a-cf2ffbb2a2f5)
-
-7)	Output ➔
-
-![Screenshot 2025-05-09 150118](https://github.com/user-attachments/assets/222f0cba-6c86-4e01-a7d3-20df3c079a97)
+### 7) Output
+- The output will be a code snippet that can be used directly in your project to display the image on the OLED screen.
